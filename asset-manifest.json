@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/first-react/static/css/main.d7da34c1.css",
+    "main.js": "/first-react/static/js/main.892eb66e.js",
+    "static/media/video.mp4": "/first-react/static/media/video.d48e218167a19525e9ae.mp4",
+    "static/media/designer team.svg": "/first-react/static/media/designer team.548ce629b6b680272965937c3c7078ea.svg",
+    "static/media/programming.svg": "/first-react/static/media/programming.938c56a2ab465c65c1f3fd5c897a9585.svg",
+    "static/media/programmer.svg": "/first-react/static/media/programmer.40807e0cdc93e31f7d386031d1c4d3ed.svg",
+    "static/media/react.svg": "/first-react/static/media/react.2bfe09fd5134c91cf808fe4c722099ff.svg",
+    "static/media/laravel and vue.svg": "/first-react/static/media/laravel and vue.31524f82774ad8a467c15428e3ff3c82.svg",
+    "static/media/paper.svg": "/first-react/static/media/paper.203e1f736e92da03edabc5d85cf6f368.svg",
+    "index.html": "/first-react/index.html",
+    "main.d7da34c1.css.map": "/first-react/static/css/main.d7da34c1.css.map",
+    "main.892eb66e.js.map": "/first-react/static/js/main.892eb66e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.892eb66e.js"
+  ]
+}
